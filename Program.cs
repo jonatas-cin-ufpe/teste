@@ -17,6 +17,8 @@ namespace DateT_TimeS
             Console.WriteLine(d2);
             Console.WriteLine("Bom dia");
 
+            Console.ReadLine();
+
         }
     }
 }
